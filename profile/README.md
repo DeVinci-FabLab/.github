@@ -1,6 +1,6 @@
 # Welcome to the DeVinci Fablab GitHub organization!
 
-![presentation video](https://github.com/user-attachments/assets/da203ed9-2023-4175-a98b-29c8a930383f)
+https://github.com/user-attachments/assets/da203ed9-2023-4175-a98b-29c8a930383f
 
 ## 🇬🇧 Who we are
 
